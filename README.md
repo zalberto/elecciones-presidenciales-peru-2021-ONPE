@@ -7,6 +7,9 @@ Folder: `/Data`:
 
 # Analysis
 Folder: `/Data/Analysis`:
+
+* `Zona Roja.csv`: En formato csv. Base de datos de mesas con distribución alejada de la normal a nivel de *mesa/acta*
+
 * `result_segunda_vuelta_FP_0.csv`: En formato csv. Campos de segunda vuelta donde Fuerza Popular obtuvo 0 votos a nivel de *mesa/acta*
 * `result_segunda_vuelta_FP_0_1.csv`: En formato csv. Campos de segunda vuelta donde Fuerza Popular obtuvo 0 y 1 votos a nivel de *mesa/acta*
 * `result_segunda_vuelta_FP_0_1_2.csv`: En formato csv. Campos de segunda vuelta donde Fuerza Popular obtuvo 0, 1 y 2 votos a nivel de *mesa/acta*
